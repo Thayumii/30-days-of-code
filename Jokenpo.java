@@ -39,5 +39,4 @@ public class Jokenpo {
             System.out.println("Obrigada por jogar.");
             scanner.close();
     }
-    
 }
