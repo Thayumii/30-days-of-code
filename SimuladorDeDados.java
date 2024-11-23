@@ -13,7 +13,7 @@ public class SimuladorDeDados{
         int numero = random.nextInt(6) + 1;
         System.out.println("Número sorteado:" + numero);
 
-        System.out.println("Deseja lançar o dado novamente?(s/n)");
+        System.out.println("Deseja jogar o dado novamente?(s/n)");
         resposta = scanner.nextLine().charAt(0);
     
     // Continua enquanto a resposta for 's'.
