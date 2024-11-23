@@ -25,5 +25,4 @@ public class GeradorDeTabuadas {
         System.out.println("Obrigado por usar o Gerador de Tabuada!");
         scanner.close();
     }
-    
 }
