@@ -1,3 +1,4 @@
+// 30 days of code - dia 6: Validação de senha.
 import java.util.Scanner;
 
 public class ValidarSenha {
